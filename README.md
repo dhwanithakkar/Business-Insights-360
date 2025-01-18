@@ -57,3 +57,19 @@ This dataset consists of **dimension tables** (static data) and **fact tables** 
 - **`manufacturing_cost`** – Production cost data.  
 - **`pre_invoice_deductions` & `post_invoice_deductions`** – Various cost adjustments.  
 
+## Data Modelling
+We have used the Snowflake schema. 
+![Image](https://github.com/user-attachments/assets/f8243306-44cd-4f15-928d-fe40716d49c7)
+
+## 📊 Dashboards Overview  
+- **Home Page** – Central hub for seamless navigation.  
+- **Finance** – Insights on Profit & Loss, top-performing customers & products.  
+- **Sales** – Analysis of Net Sales, Gross Margin, and profitability trends.  
+- **Marketing** – Performance breakdown by customer segments.  
+- **Supply Chain** – Forecast accuracy assessment & risk evaluation.  
+- **Executive** – High-level business metrics for strategic decision-making.
+
+## Home
+![Image](https://github.com/user-attachments/assets/e63d8df5-2141-4ae8-8346-36c08ef199b8)
+
+## Finance View
