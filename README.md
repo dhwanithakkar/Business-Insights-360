@@ -6,6 +6,8 @@ As AtliQ Hardware continues to expand, the company is integrating **Power BI** i
 ## Objective
 This report enables **data-driven decision-making**, providing valuable insights to support various scenarios. Additionally, it helps answer "why" questions based on the given context.
 
+#### Click here to review the full [Report](https://app.powerbi.com/view?r=eyJrIjoiNGIyZGZjZDYtMjcwMC00MTBlLThjNmQtZTM4YzFhMGIxYjkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=fbc80687d4f75a6703d2).
+
 ## 📊 Data & Analytics Tools
 - **SQL** – Data extraction, transformation & management  
 - **Power BI Desktop** – Dashboard creation & data visualization  
