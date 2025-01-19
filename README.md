@@ -3,6 +3,9 @@
 ## 🚀 Project Overview  
 As AtliQ Hardware continues to expand, the company is integrating **Power BI** into its operations to drive **data-informed decision-making**. This project delivers valuable insights across **finance, sales, marketing, and supply chain**, helping stakeholders make strategic business decisions.  
 
+## Objective
+This report enables **data-driven decision-making**, providing valuable insights to support various scenarios. Additionally, it helps answer "why" questions based on the given context.
+
 ## 📊 Data & Analytics Tools
 - **SQL** – Data extraction, transformation & management  
 - **Power BI Desktop** – Dashboard creation & data visualization  
@@ -69,7 +72,21 @@ We have used the Snowflake schema.
 - **Supply Chain** – Forecast accuracy assessment & risk evaluation.  
 - **Executive** – High-level business metrics for strategic decision-making.
 
-## Home
+## Overview
 ![Image](https://github.com/user-attachments/assets/e63d8df5-2141-4ae8-8346-36c08ef199b8)
 
 ## Finance View
+![Image](https://github.com/user-attachments/assets/c77fa940-4506-4df1-b599-bcfc7cfbcd31)
+
+## Sales View
+![Image](https://github.com/user-attachments/assets/33051f7f-af9e-4e4a-8f09-a62d8dc7c71d)
+
+## Marketing View
+![Image](https://github.com/user-attachments/assets/7356ee40-6c54-4da3-a9b6-5e22ffaad15b)
+
+## Supply Chain View
+![Image](https://github.com/user-attachments/assets/55a2f7b4-9d51-405d-9f60-e056744be0ee)
+
+## Executive View
+![Image](https://github.com/user-attachments/assets/bb5de172-1bbc-4c78-8f0b-c6aa04687a5d)
+
